@@ -1,0 +1,74 @@
+<nav class="Navbar">
+    <div class="l-Wrapper l-Wrapper--reset@sm-down">
+      <ul class="u-pullRight u-hidden@xs-down">
+    </div>
+  </nav>
+  
+  <article class="l-Wrapper">
+  
+    <div class="l-Header">
+      <div class="l-Header-col">
+          <h1 class="Title">
+            <span class="u-shadow">
+              Luke Buneo
+            </span>
+            <br>
+            <span class="Title-sub">Student at Arizona State University</span>
+          </h1>
+        </a>
+      </div>
+      <div class="l-Header-col Contact">
+        <div>Tempe, AZ</div>
+        <div><a class="u-link" href="mailto:lbuneo@asu.edu" target="_blank">lbuneo@asu.edu</a></div>
+      </div>
+    </div>
+  
+    <section class="l-Section">
+      <h2 class="l-Section-title h3 u-hidden@sm-down">Profile</h2>
+      <div class="l-Section-content">
+        <p>I am a student and passionate producer/engineer, with years of experience in various Southwest/NY recording studios.</p>
+      </div>
+    </section>
+  
+
+    <section class="l-Section">
+      <h2 class="l-Section-title h3">Experience</h2>
+      <div class="l-Section-content">
+        <h3>Studio Intern</h3>
+        <a class="u-link" href="http://www.electricladystudios.com" target="_blank">Electric Lady Studios</a> (Manhattan, NY)<br> May 2022 - September 2022
+        <ul>
+            <li>Daily tasks include studio resets, live room set up, line-checking and patchbay setup for individual sessions.</li>
+            <li>Other jobs include runs for client needs and general keep-up of studio grounds.</li>
+            </li>
+          </ul>
+
+        <h3>Inventory Specialist</h3>
+        <a class="u-link" href="https://www.fanoguitars.com" target="_blank">Fano Guitars</a> (Phoenix, AZ)<br> August 2020 - May 2022
+        <ul>
+          <li>Maintain all moving parts and inventory data.</li>
+          <li>Assist in US vendor shipping and invoiving.</li>
+          </li>
+        </ul>
+      </div>
+    </section>
+  
+    <section class="l-Section">
+      <h2 class="l-Section-title h3">Education</h2>
+      <div class="l-Section-content">
+        <h3>BA, Digital Culture (Music), Certificate in Sales and Marketing Essentials</h3>
+        <a class="u-link" href="https://artsmediaengineering.asu.edu/" target="_blank">School of Arts, Media, and Engineering</a> (ASU)<br> 2019 - 2022
+        <p>A full-time degree program that provides the technical expertise as well as the design and communication skills in areas including web, multimedia, 3D modelling, and audio production.</p>
+      </div>
+    </section>
+  
+
+  <div class="l-Wrapper u-keyline">
+    <div class="l-Footer">
+      <div class="l-Footer-col">
+        <strong class="Tag">Luke Buneo</strong>
+      </div>
+      <div class="l-Footer-col Contact">
+        <a href="lbuneo@asu.edu" target="_blank">lbuneo@asu.edu</a>
+      </div>
+    </div>
+  </div>
